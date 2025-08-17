@@ -1,4 +1,4 @@
-# Internship Research Project  ——  README
+# Internship Research Project
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](#)
 
