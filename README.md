@@ -17,8 +17,8 @@ The complete directory structure is as follows:
 ```bash
 internship_reaserch_project/
         ├─ project_work.ipynb                           # the code part of the project
-        ├─ internship_research_project_report/
-        │  ├─ figures/
+        ├─ report/
+        │  ├─ figures/                                  # images embedded in reports
         │  ├─ neurips_2023.sty                          # LaTeX template style file
         │  ├─ internship_research_project_report.tex    # the source file of the report
         │  └─ internship_research_project_report.pdf    # the project report
