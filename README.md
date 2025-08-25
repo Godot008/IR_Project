@@ -8,6 +8,18 @@
 
 ---
 
+## Project Object
+
+This project aims to analyze whole-proteome mass spectrometry data generated from a Jurkat T cell model to investigate the immunoregulatory role of the PD-1 checkpoint receptor.
+
+Specifically, the objective is to:
+- Compare T cell signaling under two conditions:
+        - Control: TCR receptor stimulation alone
+        - Experimental: TCR + PD-1 receptor co-stimulation
+- across multiple timepoints
+- Identify differentially expressed proteins between the two conditions
+- Reveal signaling pathways potentially involved in PD-1–mediated modulation of TCR signaling
+
 ## Quick Start
 
 ### Project Directory Structure
