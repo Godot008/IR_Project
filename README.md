@@ -4,7 +4,7 @@
 
 > This is an individual internship research project that I completed based on the data and requirements provided by my supervisor during the summer trimester at UCD.
 > 
-> **Proteomics**, **PD-1 signaling**, **TCR pathway**, **Differential expression analysis**, **Clustering analysis**, **Protein–protein interaction (PPI) network**, **Immune checkpoint inhibitors (ICI)**
+> **Proteomics**, **PD-1 signaling**, **TCR pathway**, **Differential expression analysis**, **Clustering analysis**, **Protein–protein interaction (PPI) network**
 
 ---
 
