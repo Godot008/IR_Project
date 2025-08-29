@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](#)
 
-> This is an individual Internship Research Project that I completed based on the data and requirements provided by my supervisor during the summer trimester at UCD.
+> This is an individual research project that I completed based on the data and requirements provided by my supervisor during the summer trimester at UCD.
 > 
 > **Proteomics**, **PD-1 signaling**, **TCR pathway**, **Differential expression analysis**, **Clustering analysis**, **Protein–protein interaction (PPI) network**
 
