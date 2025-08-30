@@ -27,12 +27,13 @@ The complete directory structure is as follows:
 
 ```bash
 internship_reaserch_project/
-        ├─ project_work.ipynb                           # the code part of the project
+        ├─ project_work.ipynb                           # The code part of the project
         ├─ report/
-        │  ├─ figures/                                  # images embedded in reports
+        │  ├─ figures/                                  # Images embedded in reports
         │  ├─ neurips_2023.sty                          # LaTeX template style file
-        │  ├─ internship_research_project_report.tex    # the source file of the report
-        │  └─ internship_research_project_report.pdf    # the project report
+        │  ├─ internship_research_project_report.tex    # The source file of the report
+        │  └─ internship_research_project_report.pdf    # The project report
+        ├─ LICENSE                                      # This project employs a custom licence; for details, see LICENCE
         └─ README.md
 ```
 
