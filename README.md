@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](#)
 
-> This is an individual research project that I completed based on the data and requirements provided by my supervisor during the summer trimester at UCD.
+> This project utilizes Jurkat cell lines as a model to compare dynamic proteomic changes under TCR stimulation versus dual TCR+PD1 stimulation conditions using large-scale mass spectrometry data. Through data preprocessing, normalization, statistical analysis, and downstream pathway enrichment, we explore PD1 activation's regulatory role in immune signaling, identify potential key molecules and pathways, and provide data-driven insights for immunotherapy-related research.
 > 
-> **Proteomics**, **PD-1 signaling**, **TCR pathway**, **Differential expression analysis**, **Clustering analysis**, **Protein–protein interaction (PPI) network**
+> **Whole-Proteome Analysis**, **Mass Spectrometry Data**, **Jurkat Cell Line**, **T Cell Receptor (TCR)**, **Programmed Cell Death Protein 1 (PD1)**, **Data Preprocessing and Normalization**, **Differential Protein Expression Analysis**, **Pathway Enrichment Analysis**, **Protein Interaction Network Analysis**, **Statistical and Machine Learning Methods**, **Immune Checkpoint Regulation**, **Signal Transduction Mechanisms**, **Immunotherapy Biomarkers**, **Cancer Immunology**, **Precision Medicine**
 
 ---
 
